@@ -21,7 +21,7 @@
 Clone the repository and run via Python 3:
 
 ```bash
-git clone [https://github.com/sualp1881/GenoCode.git](https://github.com/sualp1881/GenoCode.git)
+git git clone https://github.com/sualp1881/GenoCode.git
 cd GenoCode
 
 # Compare two Python files
